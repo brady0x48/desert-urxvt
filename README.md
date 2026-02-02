@@ -4,7 +4,7 @@ Port of [desert.vim](https://github.com/fugalh/desert.vim) by [Hans Fugal](https
 
 ## Screenshot
 
-![desert theme](https://imgur.com/0asnh8D)
+![desert theme](https://imgur.com/0asnh8D.jpeg)
 
 ## Installation
 
