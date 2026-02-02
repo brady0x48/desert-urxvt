@@ -1,0 +1,22 @@
+! ! Desert
+URxvt*background: #333333
+URxvt*foreground: #ffffff
+URxvt*cursorColor: #f0e68c
+URxvt*cursorColor2: #333333
+URxvt*underlineColor: #75a0ff
+URxvt*color0: #333333 
+URxvt*color1: #cd5c5c  
+URxvt*color2: #89fb98  
+URxvt*color3: #f0e68c  
+URxvt*color4: #75a0ff  
+URxvt*color5: #ffa0a0 
+URxvt*color6: #6dceeb 
+URxvt*color7: #c2bfa5 
+URxvt*color8: #4d4d4d 
+URxvt*color9: #ff0000 
+URxvt*color10: #9acd32 
+URxvt*color11: #eeee00 
+URxvt*color12: #5f87af 
+URxvt*color13: #af5faf 
+URxvt*color14: #ffde9b 
+URxvt*color15: #ffffff 
